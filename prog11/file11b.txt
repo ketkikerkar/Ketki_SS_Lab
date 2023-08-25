@@ -1,0 +1,3 @@
+Original file descriptor:3
+Duplicate file descriptor5Original file descriptor:3
+Duplicate file descriptor5
